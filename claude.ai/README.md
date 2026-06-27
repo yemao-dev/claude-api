@@ -1,5 +1,36 @@
 # Claude 中转站推荐：KingFlow——国内直连、稳定可靠的 Claude API 中转平台
 
+<div align="center">
+
+<img src="https://www.kingflow.ai/logo.png" alt="KingFlow Logo" width="120" />
+
+### KingFlow · 稳定低延迟的 Claude API 中转平台
+
+国内直连 · 一行配置即用 · 全系 Claude 模型 · 原生支持 Claude Code
+
+[![官网](https://img.shields.io/badge/官网-www.kingflow.ai-2563eb?style=for-the-badge)](https://www.kingflow.ai)
+[![立即使用](https://img.shields.io/badge/立即使用-注册领取额度-16a34a?style=for-the-badge)](https://www.kingflow.ai)
+[![Claude Code](https://img.shields.io/badge/支持-Claude%20Code-7c3aed?style=for-the-badge)](https://www.kingflow.ai)
+
+</div>
+
+---
+
+## 关于 KingFlow（About）
+
+**KingFlow（[https://www.kingflow.ai](https://www.kingflow.ai)）** 是一家面向国内开发者的 **Claude API 中转平台**，致力于解决 Anthropic 官方 API 在国内"无法直连、延迟高、配置难"的痛点。
+
+- 🌐 **国内直连**：稳定可访问的 API Endpoint，无需自建代理，告别超时与 5xx。
+- ⚡ **低延迟**：CDN 加速 + 请求路径优化，连续对话与代码生成更流畅。
+- 🧩 **即插即用**：一行配置接入 Claude Code、IDE 插件、脚本与各类 AI 工具。
+- 🔄 **模型同步**：紧跟官方更新，支持 Opus 4.8 / Sonnet 4.6 / Haiku 4.5 等全系模型。
+- 🔐 **安全可靠**：HTTPS 全链路加密、仅做请求转发、不存储对话内容、Key 权限隔离。
+
+> 官网：**https://www.kingflow.ai** ｜ 适合个人开发者、中小团队及需要长期稳定调用 Claude 的项目。
+
+---
+
+
 近一年，随着大模型在编程、写作、数据分析、Agent 构建等领域的深入落地，**Claude** 系列模型在开发者圈层中迅速积累了极高口碑。
 
 相比其他大模型，Claude 的优势主要体现在：
