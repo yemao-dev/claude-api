@@ -331,3 +331,8 @@ claude
 * 需要长期稳定调用 Claude 的项目
 
 如果你正在寻找一个低价、**稳定、低延迟、好上手的 Claude 中转站**，那么 KingFlow（[https://www.kingflow.ai](https://www.kingflow.ai)）值得认真考虑。
+
+
+---
+
+> 📖 **更完整的图文版与更多教程**：https://yemao-dev.github.io/claude-api/ ｜ 全部方案合集：https://yemao-dev.github.io/ ｜ 官网：https://www.kingflow.ai
